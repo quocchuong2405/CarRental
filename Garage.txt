@@ -1,0 +1,56 @@
+{
+  "id" : 0,
+  "location" : "268 LTK",
+  "name" : "garage1",
+  "size" : 48,
+  "director" : {
+    "id" : 0,
+    "email" : null,
+    "fullname" : "Chuong",
+    "phone" : 0,
+    "address" : null
+  }
+}
+{
+  "id" : 1,
+  "location" : "123 Hoang Hoa Tham",
+  "name" : "garage2",
+  "size" : 12,
+  "director" : {
+    "id" : 9,
+    "email" : "driver5@gmail.com",
+    "fullname" : "Anh",
+    "phone" : 122211,
+    "address" : "14 Le Duan",
+    "gender" : "Male",
+    "dayOfBirth" : 908816400000,
+    "license" : 445566,
+    "postal_address" : "123BCD"
+  }
+}
+{
+  "id" : 2,
+  "location" : "177 ABC",
+  "name" : "garage3",
+  "size" : 32,
+  "director" : {
+    "id" : 2,
+    "email" : null,
+    "fullname" : "Ngan",
+    "phone" : 0,
+    "address" : null
+  }
+}
+{
+  "id" : 3,
+  "location" : "20 ZZ",
+  "name" : "garage4",
+  "size" : 5,
+  "director" : {
+    "id" : 3,
+    "email" : "emailfake@gmail.com",
+    "fullname" : "Nguyen A",
+    "phone" : 911,
+    "address" : "12 Thanh My"
+  }
+}

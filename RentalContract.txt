@@ -1,0 +1,337 @@
+{
+  "id" : 0,
+  "vehicle" : {
+    "id" : 0,
+    "carname" : "Trunk1",
+    "brand" : "BMW",
+    "color" : "Blue",
+    "seat" : 2,
+    "oil_change_times" : 0,
+    "minor_times" : 0,
+    "major_times" : 0,
+    "fluid_change_times" : 0,
+    "overhault_times" : 0,
+    "adjustment_times" : 0,
+    "replacent_times" : 0,
+    "available" : false,
+    "owner" : null,
+    "bookRentDate" : null,
+    "duration" : 0,
+    "bookingCustomer" : null,
+    "distance" : 100,
+    "carry" : 50
+  },
+  "pickupDay" : 1617555600000,
+  "returnDay" : 1617642000000,
+  "duration" : 1,
+  "cost" : 1900.0,
+  "payment_method" : "credit card",
+  "garage_pickup" : {
+    "id" : 0,
+    "location" : "268 LTK",
+    "name" : "garage1",
+    "size" : 48,
+    "director" : {
+      "id" : 0,
+      "email" : null,
+      "fullname" : "Chuong",
+      "phone" : 0,
+      "address" : null
+    }
+  },
+  "garage_return" : {
+    "id" : 1,
+    "location" : "123 Hoang Hoa Tham",
+    "name" : "garage2",
+    "size" : 12,
+    "director" : {
+      "id" : 9,
+      "email" : "driver5@gmail.com",
+      "fullname" : "Anh",
+      "phone" : 122211,
+      "address" : "14 Le Duan",
+      "gender" : "Male",
+      "dayOfBirth" : 908816400000,
+      "license" : 445566,
+      "postal_address" : "123BCD"
+    }
+  },
+  "customer" : {
+    "id" : 5,
+    "email" : null,
+    "fullname" : "Tan",
+    "phone" : 0,
+    "address" : null,
+    "gender" : null,
+    "dayOfBirth" : null,
+    "license" : 66666,
+    "postal_address" : null
+  }
+}
+{
+  "id" : 1,
+  "vehicle" : {
+    "id" : 4,
+    "carname" : "Van1",
+    "brand" : "Hyundai",
+    "color" : "Brown",
+    "seat" : 2,
+    "oil_change_times" : 0,
+    "minor_times" : 0,
+    "major_times" : 0,
+    "fluid_change_times" : 0,
+    "overhault_times" : 0,
+    "adjustment_times" : 0,
+    "replacent_times" : 0,
+    "available" : false,
+    "owner" : null,
+    "bookRentDate" : null,
+    "duration" : 0,
+    "bookingCustomer" : null,
+    "distance" : 121212
+  },
+  "pickupDay" : 1617987600000,
+  "returnDay" : 1618160400000,
+  "duration" : 2,
+  "cost" : 1900.0,
+  "payment_method" : "cash",
+  "garage_pickup" : {
+    "id" : 1,
+    "location" : "123 Hoang Hoa Tham",
+    "name" : "garage2",
+    "size" : 12,
+    "director" : {
+      "id" : 9,
+      "email" : "driver5@gmail.com",
+      "fullname" : "Anh",
+      "phone" : 122211,
+      "address" : "14 Le Duan",
+      "gender" : "Male",
+      "dayOfBirth" : 908816400000,
+      "license" : 445566,
+      "postal_address" : "123BCD"
+    }
+  },
+  "garage_return" : {
+    "id" : 3,
+    "location" : "20 ZZ",
+    "name" : "garage4",
+    "size" : 5,
+    "director" : {
+      "id" : 3,
+      "email" : "emailfake@gmail.com",
+      "fullname" : "Nguyen A",
+      "phone" : 911,
+      "address" : "12 Thanh My"
+    }
+  },
+  "customer" : {
+    "id" : 1,
+    "email" : null,
+    "fullname" : "Huy",
+    "phone" : 0,
+    "address" : null
+  }
+}
+{
+  "id" : 2,
+  "vehicle" : {
+    "id" : 2,
+    "carname" : "Suv1",
+    "brand" : "Toyota",
+    "color" : "Red",
+    "seat" : 4,
+    "oil_change_times" : 0,
+    "minor_times" : 0,
+    "major_times" : 0,
+    "fluid_change_times" : 0,
+    "overhault_times" : 0,
+    "adjustment_times" : 0,
+    "replacent_times" : 0,
+    "available" : false,
+    "owner" : null,
+    "bookRentDate" : null,
+    "duration" : 0,
+    "bookingCustomer" : null,
+    "distance" : 10300
+  },
+  "pickupDay" : 1614531600000,
+  "returnDay" : 1614963600000,
+  "duration" : 5,
+  "cost" : 1900.0,
+  "payment_method" : "cash",
+  "garage_pickup" : {
+    "id" : 1,
+    "location" : "123 Hoang Hoa Tham",
+    "name" : "garage2",
+    "size" : 12,
+    "director" : {
+      "id" : 9,
+      "email" : "driver5@gmail.com",
+      "fullname" : "Anh",
+      "phone" : 122211,
+      "address" : "14 Le Duan",
+      "gender" : "Male",
+      "dayOfBirth" : 908816400000,
+      "license" : 445566,
+      "postal_address" : "123BCD"
+    }
+  },
+  "garage_return" : {
+    "id" : 2,
+    "location" : "177 ABC",
+    "name" : "garage3",
+    "size" : 32,
+    "director" : {
+      "id" : 2,
+      "email" : null,
+      "fullname" : "Ngan",
+      "phone" : 0,
+      "address" : null
+    }
+  },
+  "customer" : {
+    "id" : 3,
+    "email" : "emailfake@gmail.com",
+    "fullname" : "Nguyen A",
+    "phone" : 911,
+    "address" : "12 Thanh My"
+  }
+}
+{
+  "id" : 3,
+  "vehicle" : {
+    "id" : 7,
+    "carname" : "Suv3",
+    "brand" : "Mercedes",
+    "color" : "Yellow",
+    "seat" : 4,
+    "oil_change_times" : 0,
+    "minor_times" : 0,
+    "major_times" : 0,
+    "fluid_change_times" : 0,
+    "overhault_times" : 0,
+    "adjustment_times" : 0,
+    "replacent_times" : 0,
+    "available" : false,
+    "owner" : {
+      "id" : 0,
+      "email" : null,
+      "fullname" : "Chuong",
+      "phone" : 0,
+      "address" : null
+    },
+    "bookRentDate" : null,
+    "duration" : 0,
+    "bookingCustomer" : null,
+    "distance" : 2200
+  },
+  "pickupDay" : 1626195600000,
+  "returnDay" : 1626368400000,
+  "duration" : 2,
+  "cost" : 1900.0,
+  "payment_method" : "credit card",
+  "garage_pickup" : {
+    "id" : 2,
+    "location" : "177 ABC",
+    "name" : "garage3",
+    "size" : 32,
+    "director" : {
+      "id" : 2,
+      "email" : null,
+      "fullname" : "Ngan",
+      "phone" : 0,
+      "address" : null
+    }
+  },
+  "garage_return" : {
+    "id" : 0,
+    "location" : "268 LTK",
+    "name" : "garage1",
+    "size" : 48,
+    "director" : {
+      "id" : 0,
+      "email" : null,
+      "fullname" : "Chuong",
+      "phone" : 0,
+      "address" : null
+    }
+  },
+  "customer" : {
+    "id" : 6,
+    "email" : null,
+    "fullname" : "Tuyen",
+    "phone" : 0,
+    "address" : null,
+    "gender" : "Male",
+    "dayOfBirth" : null,
+    "license" : 123123,
+    "postal_address" : null
+  }
+}
+{
+  "id" : 4,
+  "vehicle" : {
+    "id" : 6,
+    "carname" : "Trunk3",
+    "brand" : "Ford",
+    "color" : "Grey",
+    "seat" : 2,
+    "oil_change_times" : 0,
+    "minor_times" : 0,
+    "major_times" : 0,
+    "fluid_change_times" : 0,
+    "overhault_times" : 0,
+    "adjustment_times" : 0,
+    "replacent_times" : 0,
+    "available" : false,
+    "owner" : null,
+    "bookRentDate" : null,
+    "duration" : 0,
+    "bookingCustomer" : null,
+    "distance" : 15000,
+    "carry" : 100
+  },
+  "pickupDay" : 1610989200000,
+  "returnDay" : 1614013200000,
+  "duration" : 35,
+  "cost" : 1900.0,
+  "payment_method" : "credit card",
+  "garage_pickup" : {
+    "id" : 2,
+    "location" : "177 ABC",
+    "name" : "garage3",
+    "size" : 32,
+    "director" : {
+      "id" : 2,
+      "email" : null,
+      "fullname" : "Ngan",
+      "phone" : 0,
+      "address" : null
+    }
+  },
+  "garage_return" : {
+    "id" : 2,
+    "location" : "177 ABC",
+    "name" : "garage3",
+    "size" : 32,
+    "director" : {
+      "id" : 2,
+      "email" : null,
+      "fullname" : "Ngan",
+      "phone" : 0,
+      "address" : null
+    }
+  },
+  "customer" : {
+    "id" : 0,
+    "email" : null,
+    "fullname" : "Nguyet",
+    "phone" : 0,
+    "address" : null,
+    "gender" : "Female",
+    "dayOfBirth" : 990637200000,
+    "license" : 201712,
+    "postal_address" : null
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id" : 0,
+  "email" : null,
+  "fullname" : "Chuong",
+  "phone" : 0,
+  "address" : null
+}
+{
+  "id" : 1,
+  "email" : null,
+  "fullname" : "Huy",
+  "phone" : 0,
+  "address" : null
+}
+{
+  "id" : 2,
+  "email" : null,
+  "fullname" : "Ngan",
+  "phone" : 0,
+  "address" : null
+}
+{
+  "id" : 3,
+  "email" : "emailfake@gmail.com",
+  "fullname" : "Nguyen A",
+  "phone" : 911,
+  "address" : "12 Thanh My"
+}
+{
+  "id" : 4,
+  "email" : null,
+  "fullname" : "Hoang",
+  "phone" : 100331,
+  "address" : null
+}
+{
+  "id" : 5,
+  "email" : null,
+  "fullname" : "Tan",
+  "phone" : 0,
+  "address" : null,
+  "gender" : null,
+  "dayOfBirth" : null,
+  "license" : 66666,
+  "postal_address" : null
+}
+{
+  "id" : 6,
+  "email" : null,
+  "fullname" : "Tuyen",
+  "phone" : 0,
+  "address" : null,
+  "gender" : "Male",
+  "dayOfBirth" : null,
+  "license" : 123123,
+  "postal_address" : null
+}
+{
+  "id" : 0,
+  "email" : null,
+  "fullname" : "Nguyet",
+  "phone" : 0,
+  "address" : null,
+  "gender" : "Female",
+  "dayOfBirth" : 990637200000,
+  "license" : 201712,
+  "postal_address" : null
+}
+{
+  "id" : 0,
+  "email" : null,
+  "fullname" : "Bill",
+  "phone" : 0,
+  "address" : null,
+  "gender" : "Male",
+  "dayOfBirth" : 1211130000000,
+  "license" : 663322,
+  "postal_address" : null
+}
+{
+  "id" : 9,
+  "email" : "driver5@gmail.com",
+  "fullname" : "Anh",
+  "phone" : 122211,
+  "address" : "14 Le Duan",
+  "gender" : "Male",
+  "dayOfBirth" : 908816400000,
+  "license" : 445566,
+  "postal_address" : "123BCD"
+}
